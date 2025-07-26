@@ -4,7 +4,7 @@
  ## Abstract:
 
  ### Age-Related Trends in Diabetes and Chronic Kidney Disease Prevalence in the United States
-Moiz Khan, Fahd Khan, Nikhil Nagabandi, Mary K Potter
+Nikhil Nagabandi, Moiz Khan, Fahd Khan, Mary K Potter
 
 **Background**: Diabetes and Chronic Kidney Disease (CKD) have a long-known and complex interplay. In the United States, the increasing prevalence of Diabetes has been well studied, particularly in the elderly population. Recent research has observed the prevalence of CKD due to diabetic nephropathy, but has not focused on age-stratified trends of CKD and its direct relationship to the growing burden of diabetes. This study examines the prevalence of CKD and its association with diabetes across age-stratified groups. 
 
